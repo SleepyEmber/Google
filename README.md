@@ -1,2 +1,1 @@
-# Google
-Odin Project Homepage
+# google
